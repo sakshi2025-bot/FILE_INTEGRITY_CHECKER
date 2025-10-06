@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-## YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
-
 #OUTPUT
+
+The File Integrity Checker is a Python-based tool designed to monitor changes in files and ensure data integrity. It helps detect any unauthorized or accidental modifications, additions, or deletions in important files within a directory. This kind of tool is crucial for maintaining system security and ensuring that critical files remain unaltered over time.
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b4f7a779-ef89-4634-a778-6789426f5e7a" />
 
